@@ -12,6 +12,7 @@
     <artifactId>service</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+
     <dependencies>
         <dependency>
             <groupId>com.atguigu.yygh</groupId>
@@ -60,6 +61,7 @@
             <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
