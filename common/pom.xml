@@ -5,13 +5,13 @@
     <parent>
         <groupId>com.atguigu.yygh</groupId>
         <artifactId>yygh_parent</artifactId>
-        <version>1.0</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>common</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.0.0</version>
 
     <modules>
         <module>common_util</module>

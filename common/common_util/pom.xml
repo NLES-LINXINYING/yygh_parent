@@ -5,15 +5,14 @@
     <parent>
         <groupId>com.atguigu.yygh</groupId>
         <artifactId>common</artifactId>
-        <version>1.0</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>common_util</artifactId>
-    <version>1.0</version>
-    <packaging>jar</packaging>
     <name>common_util</name>
     <description>common_util</description>
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>
