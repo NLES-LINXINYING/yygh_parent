@@ -10,9 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>model</artifactId>
-    <packaging>jar</packaging>
-    <name>model</name>
-    <description>model</description>
+<!--    <packaging>jar</packaging>-->
+<!--    <name>model</name>-->
+<!--    <description>model</description>-->
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>

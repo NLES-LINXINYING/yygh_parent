@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.utils;
+package com.atguigu.hospital.util;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
